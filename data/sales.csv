@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,city,product,category,price,quantity,payment_method
+1001,2023-01-02,C001,Jakarta,Laptop,Electronics,1200,1,Credit Card
+1002,2023-01-03,C002,Bandung,Mouse,Electronics,25,2,E-Wallet
+1003,2023-01-05,C003,Jakarta,Keyboard,Electronics,75,1,Bank Transfer
